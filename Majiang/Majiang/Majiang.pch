@@ -1,0 +1,14 @@
+//
+//  Majiang.pch
+//  Majiang
+//
+//  Created by YLRS on 2017/8/24.
+//  Copyright © 2017年 YLRS. All rights reserved.
+//
+
+#ifndef Majiang_pch
+#define Majiang_pch
+#import "GCDAsyncSocket.h"
+#import "YYKit.h"
+
+#endif /* Majiang_pch */

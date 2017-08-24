@@ -1,0 +1,31 @@
+PODS:
+  - Bugly (2.4.8)
+  - CocoaAsyncSocket (7.6.1)
+  - Masonry (1.0.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - UMengAnalytics-NO-IDFA (4.2.5)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Bugly
+  - CocoaAsyncSocket
+  - Masonry
+  - SDWebImage (~> 3.8)
+  - UMengAnalytics-NO-IDFA
+  - YYKit
+
+SPEC CHECKSUMS:
+  Bugly: da3c02408c14838d498429320545a8e439392978
+  CocoaAsyncSocket: 7eadd3f59e1a6c84e2aefc93e9ff7b55156fe174
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  UMengAnalytics-NO-IDFA: 16666e32edce5be44ae5b14aaaa7f3582e09d6ab
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 74ea05cf03bcc66ff9bda8e1bebb09a17abe2e57
+
+COCOAPODS: 1.2.0

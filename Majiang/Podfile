@@ -1,0 +1,10 @@
+platform :ios, ‘8.0’
+target ‘Majiang’ do
+  pod 'SDWebImage', '~>3.8'
+  pod 'Masonry'
+  pod 'UMengAnalytics-NO-IDFA'
+  pod 'YYKit'
+  pod 'Bugly'
+  pod 'CocoaAsyncSocket'
+
+end
